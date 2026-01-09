@@ -1,0 +1,1 @@
+import{_ as e}from"./GenerateTokenSettingsNotifications.vue_vue_type_script_setup_true_lang-s0GHhb1F.js";import{d as o,e as n,f as r}from"./index-CzIT7xhZ.js";const _=o({__name:"GenerateTokenForm",setup(a){return(t,m)=>(n(),r(e,{"memo-helper-example":"QR code underneath Simone's phone battery"}))}});export{_ as default};
